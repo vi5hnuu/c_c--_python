@@ -1,0 +1,10 @@
+num=14cube=2744
+num=12cube=1728
+num=19cube=6859
+num=14cube=2744
+num=17cube=4913
+num=13cube=2197
+num=15cube=3375
+num=14cube=2744
+num=15cube=3375
+num=17cube=4913

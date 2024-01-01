@@ -1,0 +1,9 @@
+a=4/2
+print(a);
+a=7%2
+print(a);
+a=3**4
+print(a);
+a=4//3
+a=-4//3
+print(a);

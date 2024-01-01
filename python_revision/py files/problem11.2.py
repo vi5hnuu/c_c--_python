@@ -1,0 +1,9 @@
+lst={'vishnu','krishan','manisha','laxmi','parkash','saroj'}
+lstt=['vishnu','krishan','manisha','laxmi','parkash','saroj']
+lsttt=('vishnu','krishan','manisha','laxmi','parkash','saroj')
+d=dict.fromkeys(lst,25)
+print(d)
+dd=dict.fromkeys(lstt,25)
+print(dd)
+ddd=dict.fromkeys(lsttt,25)
+print(ddd)

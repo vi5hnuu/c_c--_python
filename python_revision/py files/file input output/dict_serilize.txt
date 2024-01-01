@@ -1,0 +1,1 @@
+{"vishnu": {"age": 18, "salary": 0}, "krishan": {"age": 18, "salary": 1500}}

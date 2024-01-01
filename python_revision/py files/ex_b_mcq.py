@@ -1,0 +1,13 @@
+import math
+print((2+3j).imag)
+print((4+2j).conjugate())
+print(int('1100001110',2))
+print(str(4.33))
+print(divmod(29,5))
+print(hex(34567))
+print(round(45.67822))
+print(math.ceil(3.3556))
+print(round(16.7844))
+print(math.ceil(16.7844))
+print(3.45%1.22)
+print(math.hypot(6,8))

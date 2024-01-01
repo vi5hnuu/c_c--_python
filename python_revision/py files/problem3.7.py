@@ -1,0 +1,8 @@
+print(type({10,20}))
+print(type({10:'ok',20:'vs'}))
+print(type([10,20]))
+print(type((10,20)))
+print(type((10,)))
+print(type((10)))
+print(type('10'))
+print(type(10+2j))

@@ -1,0 +1,7 @@
+tpl=('f','i','a','b','b','e','r','g','a','s','t','e','d')
+s='-'.join(tpl)
+print(s)
+print('-'.join('vishnu'))
+print('-'.join(list('vishnu')))
+print('-'.join(tuple('vishnu')))
+print('-'.join(set('vishnu')))

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629178971 source:c:\users\vishnu kumar\desktop\let us c++\employee.cpp
+	<iostream>
+	"C:\Users\vishnu kumar\Desktop\let us c++\employee.h"
+
+1629178236 c:\users\vishnu kumar\desktop\let us c++\employee.h
+	<string>
+
+1629178926 source:c:\users\vishnu kumar\desktop\c++ revision\emplo\main.cpp
+	<iostream>
+	"C:\Users\vishnu kumar\Desktop\let us c++\employee.h"
+

@@ -1,0 +1,11 @@
+x=-50;
+y=2
+print(abs(x));
+print(pow(x,y))
+print(min(x,y))
+print(max(x,y))
+print(divmod(x,y))
+print(round(2.65,1));
+print(bin(52))
+print(oct(52))
+print(hex(52))

@@ -1,0 +1,8 @@
+print(50)
+print('50')
+print(int('50'))
+print(int('50',10))
+print(int('50',16))
+#print(int(50,16)) # syntex int(string,base)
+print(int(str(50),16))
+print(chr(65))
